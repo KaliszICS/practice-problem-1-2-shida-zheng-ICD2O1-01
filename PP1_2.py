@@ -26,7 +26,7 @@ def q7():
  num1 = 7
  num2 = 2
  print(num1%num2)
-q1()
+q1()a
 q2()
 q3()
 q4()
