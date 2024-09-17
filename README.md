@@ -5,7 +5,7 @@ Each question should be output on a separate line.
 
 Your File should also have documentation at the beginning and comments within the code.
 
-1. Assign the name "Alex" to a variable called _name_.  Output its value.
+1. Assign the name "Alex" to a variable called name.  Output its value.
 
 2. Assign the integers 3, 5, 2 to three differently named variables. Output their sum (Add them together).
 
