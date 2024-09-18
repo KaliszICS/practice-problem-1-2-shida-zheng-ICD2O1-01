@@ -21,8 +21,8 @@ def q5():
  print("Hello World")
  print("Goodbye World")
 def q6():
- boolean_var = Ture
- print(boolean_var)
+ boolean_vaule = True
+ print(boolean_vaule)
 def q7():
  num1 = 7
  num2 = 2
