@@ -21,11 +21,13 @@ def q5():
  print("Hello World")
  print("Goodbye World")
 def q6():
- print("ture")
+ boolean_var = Ture
+ print(boolean_var)
 def q7():
  num1 = 7
  num2 = 2
  print(num1%num2)
+
 q1()
 q2()
 q3()
