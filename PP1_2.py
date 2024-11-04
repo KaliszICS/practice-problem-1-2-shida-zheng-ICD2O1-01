@@ -3,9 +3,10 @@
 #Write Assignment code here
 
 def q1():
-
+    name = "Alex"
+    print(name)
 def q2():
-
+    
 def q3():
 
 def q4():
